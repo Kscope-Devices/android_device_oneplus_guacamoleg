@@ -33,4 +33,6 @@
     -->
     <integer name="config_udfpsHbmType">0</integer>
 
+    <!-- Dummy udfps vendor code -->
+    <integer name="config_udfpsVendorCode">42</integer>
 </resources>
